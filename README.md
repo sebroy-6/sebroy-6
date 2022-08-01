@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sebroy-6
 - 👀 I’m interested in full-stack software engineering
 - 🌱 I’m currently learning the MERN stack through my study web_app project
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects with other inspired web/mobile developers
 - 📫 How to reach me: sebroy1216@hotmail.com
 
 <!---
